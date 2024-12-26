@@ -1,12 +1,3 @@
-:root {
-    --cornflower: #e7e9fc;
-    --slate: #434455;
-    --navy-blue: #2e2f42;
-    --iris: #4d5ae5;
-    --ocean: #404bbf;
-    --cloud: #f4f4fd;
-  }
-  
   body {
     font-family: "Roboto", sans-serif;
     background-color: #FFFFFF;
