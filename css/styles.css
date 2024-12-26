@@ -1,11 +1,10 @@
   body {
     font-family: "Roboto", sans-serif;
     background-color: #FFFFFF;
+    color: #434455;
   }
   
   .logo-half{
-    display: inline-block;
-    text-decoration: none;
     font-family: "Raleway";
     font-weight: 700;
     font-size: 18px;
@@ -118,4 +117,5 @@
   .foot-p{
     line-height: 1.5;
     color: #f4f4fd;
+    letter-spacing: 0.02em;
   }
